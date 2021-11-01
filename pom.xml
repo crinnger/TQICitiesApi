@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.crinnger</groupId>
-	<artifactId>cidades-api</artifactId>
+	<artifactId>cities-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>cidades-api</name>
 	<description>Demo project for Spring Boot</description>
