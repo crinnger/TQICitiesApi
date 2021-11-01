@@ -30,7 +30,7 @@ public class City {
     private String name;
 
     @ManyToOne
-    @JoinColumn(name = "estado" , referencedColumnName = "id")
+    @JoinColumn(name = "uf" , referencedColumnName = "id")
     private State state;
 
     private int  ibge;
